@@ -14,6 +14,7 @@ function App() {
     <HappinessCard />
     <MenuBanner />
     <Footer />
+    <Footer />
    </div>
   )
 }
